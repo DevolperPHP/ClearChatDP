@@ -1,0 +1,10 @@
+---
+name: ClearChatDP
+author: JUZEXMOD/DevolperPHP
+main: ClearChatDP\clearchatdp
+version: 1.0
+api: [2.0.0]
+
+commands:
+  cdp:
+    description: Cleand The Chat
